@@ -15,4 +15,4 @@ Usługi infromatyczne Szymon Brzostek to firma zajmująca się w szczególności
     email: brzostekszymon@gmail.com
     stelefon: +48 604 450 011
 
-![PROW]([https://github.com/brzoszy/UISB/blob/main/prow-2014-2020-logo-kolor_0.jpg?raw=true])
+![PROW]([https://github.com/brzostekszymon/uslugi_informatyczne/blob/main/prow-2014-2020-logo-kolor_0.jpg?raw=true?raw=true])
