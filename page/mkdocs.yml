@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.top
   palette:
     # Palette toggle for light mode
     - scheme: default
